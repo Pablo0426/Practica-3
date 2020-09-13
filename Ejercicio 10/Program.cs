@@ -20,9 +20,6 @@ namespace Ejercicio_10
             int cantCi = 99;
             int Ci = 100;
             int Disponible = (cantMil * Mil) + (cantQuin * Quin) + (cantCi * Ci);
-            int k;
-            int q;
-            int h;
 
             inicio:
             Console.WriteLine("Elija la opcion a efectuar\n\n" +
